@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 #少儿
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+http://117.161.12.124/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="动画频道",金鹰卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="动画频道",优漫卡通
@@ -190,8 +190,6 @@ http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/
 http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="喜欢",CHC家庭影院
 http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-#EXTINF:-1 tvg-name="力量影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="喜欢",1905电影
-https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="喜欢",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="喜欢",凤凰资讯
@@ -210,97 +208,6 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•体育",咪咕直播 𝟜「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•体育",BesTV 𝟙「IPV6」
-
-#数字
-#EXTINF:-1 tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" tvg-logo="" group-title="数字",爱上4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" tvg-logo="" group-title="数字",纯享4K
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字",纪实人文
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字",纪实科教
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="纪实科教8K" tvg-name="纪实科教8K" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing9.png" group-title="数字",纪实科教8K
-http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="数字",乐游频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字",金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字",茶友频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字",快乐垂钓
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",SiTV12-欢笑剧场
-http://117.161.12.124/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="法治天地" group-title="数字",SiTv2-法治天地
-http://117.161.12.124/live/program/live/fztd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="七彩戏剧" group-title="数字",SiTv7-七彩戏剧
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="动漫秀场" group-title="数字",SiTv4-动漫秀场
-http://117.161.12.124/live/program/live/dmxc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="生活时尚" group-title="数字",SiTv6-生活时尚
-http://117.161.12.124/live/program/live/shss8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="都市剧场" group-title="数字",SiTv3-都市剧场
-http://117.161.12.124/live/program/live/dsjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="金色学堂" group-title="数字",SiTv-金色学堂
-http://117.161.12.124/live/program/live/jingsepd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",华数-求索纪录
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字",华数-求索科学
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo4.png" group-title="数字",华数-求索生活
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo3.png" group-title="数字",华数-求索动物
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wssj.png" group-title="数字",河南-武术世界
-http://111.61.236.247:9081/hls/60/index.m3u8
-#EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",河南-文物宝库
-http://111.61.236.247:9081/hls/64/index.m3u8
-#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字",重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-
-#百事通
-#EXTINF:-1 group-title="百事通",华语影院
-http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="百事通",星光影院
-http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 group-title="百事通",全球大片
-http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 group-title="百事通",热门剧场
-http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 group-title="百事通",谍战剧场
-http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 group-title="百事通",青春动漫
-http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="百事通",宝宝动画
-http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="百事通",戏曲精选
-http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 group-title="百事通",热门综艺
-http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 group-title="百事通",超级体育
-http://php.jdshipin.com/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 group-title="百事通",健康养生
-http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 group-title="百事通",百变课堂
-http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 group-title="百事通",看天下精选
-http://php.jdshipin.com/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 group-title="百事通",电竞天堂
-http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 group-title="百事通",百视通4K测试
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4k
-#EXTINF:-1 group-title="百事通",百视通4K儿童
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4ket
-#EXTINF:-1 group-title="百事通",百视通4K电影
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4kdy
-#EXTINF:-1 group-title="百事通",百视通4K纪实
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4kjs
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV04.png" group-title="NewTV",古装剧场
@@ -363,6 +270,98 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="NewTV",哒啵电竞
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
+
+#数字
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" tvg-logo="" group-title="数字",纯享4K
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字",纪实人文
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字",纪实科教
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-id="纪实科教8K" tvg-name="纪实科教8K" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/beijing/Beijing9.png" group-title="数字",纪实科教8K
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="数字",乐游频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字",金鹰纪实
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="数字",环球奇观
+http://111.61.236.247:9081/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字",茶友频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字",快乐垂钓
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+#EXTINF:-1 tvg-name="金色学堂" group-title="数字",SiTv-金色学堂
+http://117.161.12.124/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="法治天地" group-title="数字",SiTv2-法治天地
+http://117.161.12.124/live/program/live/fztd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="都市剧场" group-title="数字",SiTv3-都市剧场
+http://117.161.12.124/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" group-title="数字",SiTv4-动漫秀场
+http://117.161.12.124/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="生活时尚" group-title="数字",SiTv6-生活时尚
+http://117.161.12.124/live/program/live/shss8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="七彩戏剧" group-title="数字",SiTv7-七彩戏剧
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",SiTV12-欢笑剧场
+http://117.161.12.124/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wssj.png" group-title="数字",武术世界
+http://111.61.236.247:9081/hls/60/index.m3u8
+#EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
+http://111.61.236.247:9081/hls/64/index.m3u8
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字",重温经典
+http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" tvg-logo="" group-title="数字",爱上4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",华数-求索纪录
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字",华数-求索科学
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo4.png" group-title="数字",华数-求索生活
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo3.png" group-title="数字",华数-求索动物
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
+
+#百事通
+#EXTINF:-1 tvg-name="华语影院" group-title="百事通",华语影院
+http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1 tvg-name="星光影院" group-title="百事通",星光影院
+http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 group-title="百事通",全球大片
+http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1 group-title="百事通",热门剧场
+http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 group-title="百事通",谍战剧场
+http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1 group-title="百事通",青春动漫
+http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 group-title="百事通",宝宝动画
+http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 group-title="百事通",戏曲精选
+http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1 group-title="百事通",热门综艺
+http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1 group-title="百事通",超级体育
+http://php.jdshipin.com/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1 group-title="百事通",健康养生
+http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
+#EXTINF:-1 group-title="百事通",百变课堂
+http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1 group-title="百事通",看天下精选
+http://php.jdshipin.com/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1 group-title="百事通",电竞天堂
+http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
+#EXTINF:-1 group-title="百事通",百视通4K测试
+http://php.jdshipin.com/TVOD/iptv.php?id=bst4k
+#EXTINF:-1 group-title="百事通",百视通4K儿童
+http://php.jdshipin.com/TVOD/iptv.php?id=bst4ket
+#EXTINF:-1 group-title="百事通",百视通4K电影
+http://php.jdshipin.com/TVOD/iptv.php?id=bst4kdy
+#EXTINF:-1 group-title="百事通",百视通4K纪实
+http://php.jdshipin.com/TVOD/iptv.php?id=bst4kjs
 
 #香港
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="耀才财经", 耀才财经,
@@ -492,7 +491,7 @@ http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1,tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="地方",苏州4K频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
-#地方/浙江/14个频道
+#地方/浙江
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济生活
@@ -617,6 +616,14 @@ http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="SX05" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="地方",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+
+#地方/河南
+#EXTINF:-1 group-title="地方",河南法治
+http://1.193.190.138:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",河南新闻
+http://1.193.190.138:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",河南公共
+http://1.193.190.138:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #地方/湖北
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png" group-title="地方",湖北综合
