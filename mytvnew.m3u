@@ -264,6 +264,36 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m
 #EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字",重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
+#百事通
+#EXTINF:-1 group-title="百事通",华语影院
+http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1 group-title="百事通",星光影院
+http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 group-title="百事通",全球大片
+http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1 group-title="百事通",热门剧场
+http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 group-title="百事通",谍战剧场
+http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1 group-title="百事通",青春动漫
+http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 group-title="百事通",宝宝动画
+http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 group-title="百事通",戏曲精选
+http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1 group-title="百事通",热门综艺
+http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1 group-title="百事通",超级体育
+http://php.jdshipin.com/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1 group-title="百事通",健康养生
+http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
+#EXTINF:-1 group-title="百事通",百变课堂
+http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1 group-title="百事通",看天下精选
+http://php.jdshipin.com/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1 group-title="百事通",电竞天堂
+http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
+
 #NewTV
 #EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV04.png" group-title="NewTV",古装剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8
