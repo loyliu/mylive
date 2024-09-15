@@ -83,9 +83,9 @@ http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8k.png" group-title="CCTV",CCTV-8K 超高清
 http://mtw.so/62HqYI
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="CCTV",CCTV-4 中文国际欧洲
-http://dns.art2kn.win:7000/rtp/239.3.1.213:4220
+http://123.113.237.36:8012/rtp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="CCTV",CCTV-4 中文国际美洲
-http://dns.art2kn.win:7000/rtp/239.3.1.214:4220
+http://123.113.237.36:8012/rtp/239.3.1.214:4220
 
 #卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视[高清]
@@ -469,43 +469,43 @@ http://117.161.12.124/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 
 #地方/北京
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",BRTV新闻[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.159:8000
+http://123.113.237.36:8012/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",BRTV文艺[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.242:8000
+http://123.113.237.36:8012/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",BRTV影视[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.158:8000
+http://123.113.237.36:8012/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="1877"  tvg-name="BTRV体育休闲"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="地方",BRTV体育休闲[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.243:8000
+http://123.113.237.36:8012/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="1872"  tvg-name="BRTV纪实科教"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"  group-title="地方",BRTV纪实科教[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.115:8000
+http://123.113.237.36:8012/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="1876"  tvg-name="BRTV财经"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png"  group-title="地方",BRTV财经[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.116:8000
+http://123.113.237.36:8012/rtp/239.3.1.116:8000
 #EXTINF:-1  tvg-id="1878"  tvg-name="BRTV生活"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"  group-title="地方",BRTV生活[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.117:8000
+http://123.113.237.36:8012/rtp/239.3.1.117:8000
 #EXTINF:-1  tvg-id="BRTV国际频道"  tvg-name="BRTV国际频道"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BRTV国际频道.png"  group-title="地方",BRTV国际频道[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.235:8000
+http://123.113.237.36:8012/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV 4K超清[4K]
-http://dns.art2kn.win:7000/rtp/239.3.1.249:8001
+http://123.113.237.36:8012/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV淘精彩[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.178:8001
+http://123.113.237.36:8012/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV淘娱乐[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.100:8001
+http://123.113.237.36:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV淘剧场[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.95:8001
+http://123.113.237.36:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV淘Baby[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.238:8001
+http://123.113.237.36:8012/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV淘电影[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.250:8001
+http://123.113.237.36:8012/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV 萌宠TV[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.102:8001
+http://123.113.237.36:8012/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",朝阳电视台[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.163:8001
+http://123.113.237.36:8012/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",密云电视台[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.154:8001
+http://123.113.237.36:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",房山电视台[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.96:8001
+http://123.113.237.36:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",通州融媒[高清]
-http://dns.art2kn.win:7000/rtp/239.3.1.221:8001
+http://123.113.237.36:8012/rtp/239.3.1.221:8001
 
 #地方/湖南
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南经视.png" group-title="地方",湖南经视
@@ -765,7 +765,7 @@ http://wouu.net:9977/udp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视特色",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="央视特色",中国交通
-http://dns.art2kn.win:7000/rtp/239.3.1.188:8001
+http://123.113.237.36:8012/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",group-title="央视特色",中国天气
 http://117.161.12.124/live/program/live/zgqx/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视特色",风云剧场
