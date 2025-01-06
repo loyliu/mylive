@@ -370,18 +370,57 @@ http://116.28.99.124:8888/udp/239.77.0.1:5146
 http://183.52.6.10:8888/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="地方频道",广东影视
 http://113.111.17.249:8888/udp/239.77.0.217:5146
+#EXTINF:-1,tvg-id="广东影民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="地方频道",广东影视
+http://116.28.99.124:8888/udp/239.77.0.225:5146
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="地方频道",广东体育
+http://116.28.99.124:8888/udp/239.77.0.168:5146
+#EXTINF:-1,tvg-id="经济科教" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/经济科教.png" group-title="地方频道",广东经济科教
+http://116.28.99.124:8888/udp/239.77.0.85:5146
+#http://116.28.99.124:8888/udp/239.77.0.167:5146
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="地方频道",大湾区卫视
+http://116.28.99.124:8888/udp/239.77.0.215:5146
+#EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="地方频道",广东少儿
+http://116.28.99.124:8888/udp/239.77.0.250:5146
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
+http://116.28.99.124:8888/udp/239.77.0.179:5146
+#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="地方频道",广东综艺
+http://116.28.99.124:8888/udp/239.77.1.236:5146
+#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="地方频道",深圳都市
+http://116.28.99.124:8888/udp/239.77.1.176:5146
+#http://116.28.99.124:8888/udp/239.77.1.124:5146
+#EXTINF:-1,tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="地方频道",深圳电视剧
+http://116.28.99.124:8888/udp/239.77.1.177:5146
+#http://116.28.99.124:8888/udp/239.77.1.125:5146
+#EXTINF:-1,tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.xyz/logo/深圳财经生活.png" group-title="地方频道",深圳财经生活
+http://116.28.99.124:8888/udp/239.77.1.242:5146
+#EXTINF:-1,tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://epg.112114.xyz/logo/深圳娱乐.png" group-title="地方频道",深圳娱乐
+http://116.28.99.124:8888/udp/239.77.1.243:5146
+#EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="地方频道",深圳体育健康
+http://116.28.99.124:8888/udp/239.77.1.128:5146
+#http://116.28.99.124:8888/udp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://live.fanmingming.com/tv/深圳少儿.png" group-title="地方频道",深圳少儿
+http://116.28.99.124:8888/udp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://live.fanmingming.com/tv/深圳公共.png" group-title="地方频道",深圳公共
+http://116.28.99.124:8888/udp/239.77.1.178:5146
+#http://116.28.99.124:8888/udp/239.77.1.126:5146
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="地方频道",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+#http://116.28.99.124:8888/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="地方频道",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
+#http://116.28.99.124:8888/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="地方频道",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+#http://116.28.99.124:8888/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042736661.jpg" group-title="地方频道",广州竞赛频道
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://tv.haoqu99.com/d/file/2019/1115/small2dc32ee498f65382d2fb9dab733c4c47.jpg" group-title="地方频道",广州电视台法治频道
+#http://116.28.99.124:8888/udp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://tv.haoqu99.com/d/file/2019/1115/small2dc32ee498f65382d2fb9dab733c4c47.jpg" group-title="地方频道",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+#http://116.28.99.124:8888/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="地方频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#http://116.28.99.124:8888/udp/239.253.43.99:5146
 
 #地方/江苏
 #EXTINF:-1 tvg-id="JS07" tvg-name="江苏新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu1.png" group-title="地方频道",江苏新闻
