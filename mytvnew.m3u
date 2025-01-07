@@ -690,13 +690,15 @@ http://113.64.94.170:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB J1", TVB J1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB翡翠台",TVB翡翠台
-http://113.64.94.170:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB星河台",TVB星河台
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB亚洲武侠",TVB亚洲武侠
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB娱乐新闻台",TVB娱乐新闻台
-https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+http://extraott.com:80/live/6772191932/1654508883/473570.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVBLiveShow",TVBLiveShow
+http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="番薯台", 番薯台,
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="面包台", 面包台,
