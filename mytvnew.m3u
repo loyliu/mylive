@@ -121,7 +121,7 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266006
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
-http://59.56.213.41:8000/rtp/239.61.2.151:8894
+http://bf11e1.tv.netsite.cc/proxy/1400186150/1400186150.m3u8
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="地方频道",大湾区卫视高清
 http://113.119.7.174:10000/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视高清
@@ -146,6 +146,8 @@ https://stream1.freetv.fun/f7a332b0de0639d5df6a1b85d75af796f60f3fac597b1874c33f2
 #数字频道
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="数字频道",中国天气
 http://[2409:8087:5e00:24::029]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
+http://bf11e1.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="数字频道",纪实人文(转东方卫视)
@@ -333,7 +335,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="河北少儿" tvg-name="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="动画频道",河北少儿
-http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+http://bf11e1.tv.netsite.cc/proxy/177438581/177438581.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang6.png" group-title="动画频道",黑龙江少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="动画频道",海南少儿 
@@ -344,6 +346,8 @@ https://hls.gstv.com.cn/49048r/922k96.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Neimeng5.png" group-title="动画频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="动画频道",新视觉HD
+http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 #4K8K频道
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="4K8K频道",南国都市4K
@@ -686,9 +690,9 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="耀才财经", 耀才财经,
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,group-title="香港" tvg-logo="" tvg-id="天映", 天映
-http://113.64.94.170:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB J1", TVB J1
-https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB翡翠台",TVB翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVB星河台",TVB星河台
@@ -699,8 +703,6 @@ http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 http://extraott.com:80/live/6772191932/1654508883/473570.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="TVBLiveShow",TVBLiveShow
 http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="番薯台", 番薯台,
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="面包台", 面包台,
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="GOOD卡通", GOOD卡通
@@ -715,6 +717,8 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #台湾频道
+#EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="番薯台", 番薯台,
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/fEUmRST.png" tvg-id="FTV News",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/fEUmRST.png" tvg-id="CTi News",中天新闻台
