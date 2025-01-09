@@ -532,6 +532,21 @@ http://111.197.129.15:8888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",北京IPTV 萌宠TV[高清]
 http://111.197.129.15:8888/rtp/239.3.1.102:8001
 
+#EXTINF:-1 tvg-name=”福建综合频道“ tvg-logo=”https://live.fanmingming.com/tv/福建综合频道.png“ group-title=”地方频道“,福建综合频道
+http://a21709.tv.netsite.cc/proxy/269896449/269896449.m3u8
+#EXTINF:-1 tvg-name=”福建公共频道“ tvg-logo=”https://live.fanmingming.com/tv/福建公共频道.png“ group-title=”地方频道“,福建公共频道
+http://a21709.tv.netsite.cc/proxy/639164858/639164858.m3u8
+#EXTINF:-1 tvg-name=”福建新闻频道“ tvg-logo=”https://live.fanmingming.com/tv/福建新闻频道.png“ group-title=”地方频道“,福建新闻频道
+http://a21709.tv.netsite.cc/proxy/199601741/199601741.m3u8
+#EXTINF:-1 tvg-name=”福建旅游频道“ tvg-logo=”https://live.fanmingming.com/tv/福建旅游频道.png“ group-title=”地方频道“,福建旅游频道
+http://a21709.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
+#EXTINF:-1 tvg-name=”福建经视频道“ tvg-logo=”https://live.fanmingming.com/tv/福建经视频道.png“ group-title=”地方频道“,福建经视频道
+http://a21709.tv.netsite.cc/proxy/561753807/561753807.m3u8
+#EXTINF:-1 tvg-name=”福建体育频道“ tvg-logo=”https://live.fanmingming.com/tv/福建体育频道.png“ group-title=”地方频道“,福建体育频道
+http://a21709.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
+#EXTINF:-1 tvg-name=”福建海峡卫视“ tvg-logo=”https://live.fanmingming.com/tv/福建海峡卫视.png“ group-title=”地方频道“,福建海峡卫视
+http://a21709.tv.netsite.cc/proxy/1400186150/1400186150.m3u8
+
 #安徽/3个频道
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/anhui/Anhui2.png" group-title="地方频道",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
