@@ -128,8 +128,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1000000005000266003/index.m3u8?
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://[2409:8087:5e00:24::20]:6610/000000001000/1000000005000266006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266006
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
-http://bf11e1.tv.netsite.cc/proxy/1400186150/1400186150.m3u8
 #EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/one.png" group-title="卫视频道",亚洲第一卫视
 https://stream1.freetv.fun/f7a332b0de0639d5df6a1b85d75af796f60f3fac597b1874c33f22829d7ff212.m3u8
 
@@ -523,19 +521,19 @@ http://111.197.129.15:8888/rtp/239.3.1.250:8001
 http://111.197.129.15:8888/rtp/239.3.1.102:8001
 
 #EXTINF:-1 tvg-name=”福建综合频道“ tvg-logo=”https://live.fanmingming.com/tv/福建综合频道.png“ group-title=”地方频道“,福建综合频道
-http://a21709.tv.netsite.cc/proxy/269896449/269896449.m3u8
+https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=f3956b481736574721
 #EXTINF:-1 tvg-name=”福建公共频道“ tvg-logo=”https://live.fanmingming.com/tv/福建公共频道.png“ group-title=”地方频道“,福建公共频道
-http://a21709.tv.netsite.cc/proxy/639164858/639164858.m3u8
+https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=fc35273d1736574784
 #EXTINF:-1 tvg-name=”福建新闻频道“ tvg-logo=”https://live.fanmingming.com/tv/福建新闻频道.png“ group-title=”地方频道“,福建新闻频道
-http://a21709.tv.netsite.cc/proxy/199601741/199601741.m3u8
+https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=2eca503b1736574810
 #EXTINF:-1 tvg-name=”福建旅游频道“ tvg-logo=”https://live.fanmingming.com/tv/福建旅游频道.png“ group-title=”地方频道“,福建旅游频道
-http://a21709.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
+https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=c021e2421736574831
 #EXTINF:-1 tvg-name=”福建经视频道“ tvg-logo=”https://live.fanmingming.com/tv/福建经视频道.png“ group-title=”地方频道“,福建经视频道
-http://a21709.tv.netsite.cc/proxy/561753807/561753807.m3u8
+https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=0b6a9d401736574855
 #EXTINF:-1 tvg-name=”福建体育频道“ tvg-logo=”https://live.fanmingming.com/tv/福建体育频道.png“ group-title=”地方频道“,福建体育频道
-http://a21709.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
-#EXTINF:-1 tvg-name=”福建海峡卫视“ tvg-logo=”https://live.fanmingming.com/tv/福建海峡卫视.png“ group-title=”地方频道“,福建海峡卫视
-http://a21709.tv.netsite.cc/proxy/1400186150/1400186150.m3u8
+https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=4a8966da1736574923
+#EXTINF:-1 tvg-name=”海峡卫视“ tvg-logo=”https://live.fanmingming.com/tv/海峡卫视.png“ group-title=”地方频道“,福建海峡卫视
+https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=4a8966da1736574923
 
 #安徽/3个频道
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/anhui/Anhui2.png" group-title="地方频道",安徽影视
